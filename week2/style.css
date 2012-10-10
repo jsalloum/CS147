@@ -54,11 +54,12 @@
 		}
 		.box {
 			width:100px;
-			float:left;
-			padding:10px;
+			float:right;
+			padding:0px;
 			color:#fff;
 			height:50px;
-			margin:10px;
+			margin:20px;
+			background:#fff;
 			border:3px solid #4889a3;
 		}
 		.box1 {
